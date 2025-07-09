@@ -182,5 +182,7 @@ Desenvolvido por:
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a **Licença MIT**.  
-Sinta-se livre para usar, modificar e distribuir.
+© 2025 Rafael de França & Eduardo Gabriel dos Santos.  
+Todos os direitos reservados.
+
+Este projeto é de uso privado e não está autorizado para cópia, modificação ou redistribuição sem consentimento prévio por escrito dos autores.
